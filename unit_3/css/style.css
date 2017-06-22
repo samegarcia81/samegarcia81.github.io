@@ -1,18 +1,17 @@
 body {
-	background-color: #8D2C0C;
+	background-color: #732709;
 	text-align: center;
 	color:#E8FFC7;
 	font-family: Helvetica;
 
 }
 p {
-	color:#E8FFC7;
-	font-size: 50px;
+	color:#B56D13;
+	font-size: 20px;
 	font-weight: bold;
 
 }
 h1 {
-	font-size: 100px;
-	color:#8D2C0C;
-	font-weight: bold;
+	font-size: 10px;
+	color:#732709;
 }
