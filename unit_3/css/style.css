@@ -7,9 +7,11 @@ body {
 }
 p {
 	color:#E8FFC7;
+	font-size: 30px;
+	
 }
 h1 {
-	font-size: 40px;
-	color:#FF991B;
+	font-size: 100px;
+	color:#B56D13;
 	font-weight: bold;
 }
