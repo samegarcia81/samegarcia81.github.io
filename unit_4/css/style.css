@@ -10,8 +10,8 @@ body {
 p {
 	color:#B56D13;
 	font-size: 20px;
-	font-weight: bold;
 	font-family: 'Bellefair', serif;
+	margin:2em;
 }
 
 h1 {
