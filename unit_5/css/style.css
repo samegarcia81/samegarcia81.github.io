@@ -1,5 +1,27 @@
 @import url('https://fonts.googleapis.com/css?family=Bellefair|Hammersmith+One');
 
+header {
+	background-color:#FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+nav {
+	background-color:#E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+article{
+	background-color: #E89C6C
+	border: 1px black solid;
+	padding: 20px;
+}
+
+div{
+	background-color: #FFE2B8
+	border:1px black solid;
+	padding:20px;
+}
 body {
 	background-color: #732709;
 	text-align: center;
@@ -18,4 +40,10 @@ h1 {
 	font-size: 10px;
 	color:#732709;
 	font-family: 'Hammersmith One', sans-serif;
+}
+footer{
+	background-color: #FF957E;
+	border:1px black solid;
+	padding:20px;
+
 }
