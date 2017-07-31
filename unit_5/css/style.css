@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Bellefair|Hammersmith+One');
+
+body {
+	background-color: #732709;
+	text-align: center;
+	color:#E8FFC7;
+	font-family: "Arial Black";
+}
+
+p {
+	color:#B56D13;
+	font-size: 20px;
+	font-family: 'Bellefair', serif;
+	margin:2em;
+}
+
+h1 {
+	font-size: 10px;
+	color:#732709;
+	font-family: 'Hammersmith One', sans-serif;
+}
